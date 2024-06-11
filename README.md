@@ -30,8 +30,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JuAnDaGmiss77&theme=midnight-purple)](https://git.io/streak-stats)
 
-![JuAnDaGmiss77 GitHub stats](https://github-readme-stats.vercel.app/api?username=JuAnDaGmiss77&theme=midnight-purple&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuAnDaGmiss77)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
