@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="300" />
     <h1 align="center">Hi, I'm J.David</h1>
-    <h3 align="center">Fullstack web developer</h3>
+    <h3 align="center">Software Engineer</h3>
 </div>
 
 <div align="center">
